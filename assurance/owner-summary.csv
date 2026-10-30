@@ -1,0 +1,5 @@
+owner,credentials,current,due_soon,overdue,no_rotation,exempt,action_count
+Ava,2,0,1,0,1,0,2
+Bo,2,0,0,1,0,1,1
+Cy,2,1,1,0,0,0,1
+Di,1,0,0,1,0,0,1
